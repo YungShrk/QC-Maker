@@ -15,7 +15,7 @@ def lines(fileName, line):
     return line
 
 
-with open('C:\\Users\\wyatt\\OneDrive\\Documents\\Test\\'+fileName+'.txt', 'w') as f:
+with open('C:\\Users\\wyatt\\OneDrive\\Documents\\QC Work\\'+fileName+'.txt', 'w') as f:
    f.write(fileName + '\n' + lines(fileName,line))
    for x in range(int(seasonNum)):
     season = season + 1
@@ -30,6 +30,7 @@ with open('C:\\Users\\wyatt\\OneDrive\\Documents\\Test\\'+fileName+'.txt', 'w') 
         ep = ep + 1
         f.write('\n')
         f.write('\n')
+        f.write('\n') 
         f.write('\n')  
         f.write(lines(fileName,line))                      
         
