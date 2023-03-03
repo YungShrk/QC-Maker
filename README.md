@@ -8,7 +8,6 @@ Download an IDE (I used VSCode, very easy to set up), as well as Python.
 Donwload my .py file I added here
 
 Once you have the python file open in VSCode, change the C:\\Users\\wyatt\\OneDrive\\Documents\\QC Work\\ to the folder of your choice
-
 (if you go to it in your file explorer you can copy and paste it, make sure there are double \\ though!)
 
 Then hit the run button in the top right (triange) and enter the inputs it asks at the bottom, name of show (havent got to features yet), 
