@@ -2,7 +2,7 @@ showOrMov = input("Show or list of features? ('s' for show, 'f' for features): "
 if showOrMov == 's':
     fileName = input("Enter name of show: ")
     seasonNum = input("Enter number of seasons: ")
-    epNum = input("Enter number of episodes: ")    
+    epNum = input("Enter max number of episodes in a season: ")    
 if showOrMov == 'f':
     fileName = input("Enter name of production company (i.e, 'AMC'): ")    
     epNum = input("Enter number of features: ")
